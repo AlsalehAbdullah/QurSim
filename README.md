@@ -1,5 +1,5 @@
 # QurSim
-The QurSim Corpus is filtered due to duplications in the pairwise verses.
+The QurSim Corpus is filtered due to duplications in the pairwise verses. You can read the paper [here](https://aclanthology.org/2021.wanlp-1.19/)
 
 The original QurSim can be accessed via http://textminingthequran.com/ 
 
